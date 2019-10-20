@@ -1,7 +1,7 @@
 # Site settings
 title: John Morrison
 email: jjosephmorrison@gmail.com
-description: > 'Data Science student at Lambda School'
+description: > #
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "johnjmorrison.com" # the base hostname & protocol for your site
 
