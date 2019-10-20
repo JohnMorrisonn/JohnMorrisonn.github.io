@@ -5,7 +5,7 @@ description: > #
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "johnjmorrison.com" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: John_J_Morrison
 github_username: JohnMorrisonn
 
 # Build settings
